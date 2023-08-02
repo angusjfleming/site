@@ -1,5 +1,6 @@
 Personal Site for Angus Fleming
 
+Site is accessible at https://angusjfleming.github.io/site/
 
 Based on Read Only by HTML5 UP
 html5up.net | @ajlkn
